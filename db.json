@@ -1,0 +1,35 @@
+{
+"events:" [
+  {
+    "id": 123,
+    "category": "animal welfare",
+    "title": "Cat Adoption Day",
+    "description": "Find your feline friend at this event.",
+    "location": "Meow Town",
+    "date": "January 28, 2022",
+    "time": "12:00",
+    "organizer": "Kat Laydee"
+  },
+  {
+    "id": 124,
+    "category": "animal welfare",
+    "title": "Dog Adoption Day",
+    "description": "Find your canine friend at this event.",
+    "location": "Dog Town",
+    "date": "January 28, 2022",
+    "time": "12:00",
+    "organizer": "Kat Laydee"
+  },
+  {
+    "id": 125,
+    "category": "animal welfare",
+    "title": "Bird Adoption Day",
+    "description": "Find your bird friend at this event.",
+    "location": "Bird Town",
+    "date": "January 28, 2022",
+    "time": "12:00",
+    "organizer": "Kat Laydee"
+  },
+
+]
+
